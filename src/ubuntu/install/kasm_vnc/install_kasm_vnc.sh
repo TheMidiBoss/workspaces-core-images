@@ -9,8 +9,10 @@ install_libjpeg_turbo() {
     rm "$libjpeg_deb"
 }
 
+
 echo "Install KasmVNC server"
 cd /tmp
+
 
 BUILD_ARCH=$(uname -p)
 UBUNTU_CODENAME=""
