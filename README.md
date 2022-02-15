@@ -15,6 +15,7 @@ The container is now accessible via a browser : `https://<IP>:6901`
  - **Password**: `password`
 
 
+
 For more information about building custom images please review the  [**How To Guide**](https://kasmweb.com/docs/latest/how_to/building_images.html?utm_campaign=Github&utm_source=github)
 
 The Kasm team publishes applications and desktop images for use inside the platform. More information, including source can be found in the [Default Images List](https://kasmweb.com/docs/latest/guide/custom_images.html?utm_campaign=Github&utm_source=github)
@@ -28,7 +29,7 @@ Kasm Workspaces was developed to meet the most demanding secure collaboration re
 
 # Live Demo
 A self-guided on-demand demo is available at [**kasmweb.com**](https://www.kasmweb.com/demo.html?utm_campaign=Github&utm_source=github)
-
+ 
 
 [logo]: https://cdn2.hubspot.net/hubfs/5856039/dockerhub/kasm_logo.png "Kasm Logo"
 [Kasm_Workflow]: https://cdn2.hubspot.net/hubfs/5856039/dockerhub/kasm_workflow_960.gif "Kasm Workflow"
