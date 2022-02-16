@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 ### every exit != 0 fails the script
+
+
+
 set -e
 ARCH=$(arch | sed 's/aarch64/arm64/g' | sed 's/x86_64/amd64/g')
 mkdir -p $STARTUPDIR/audio_input
